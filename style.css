@@ -1,0 +1,34 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 15px 15px 15px rgb(0, 110, 157);
+    font-family: 'Julee', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 4px 4px 4px rgb(0, 0, 0);
+}
+.note{
+    font-size: 20px;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    text-shadow: none;
+}
+.copy_right_footer{
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(16, 161, 190);
+    text-align: center;
+    font-family: 'Julee', cursive;
+    font-size: 23px;
+    color: white;
+    text-shadow: 4px 4px 4px rgb(0, 0, 0);
+}
+canvas{
+    margin-top: 65px;
+    border: 5px solid rgb(212, 113, 77);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(17, 28, 64);
+}
